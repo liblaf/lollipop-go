@@ -4,7 +4,7 @@ go 1.24.1
 
 require (
 	github.com/charmbracelet/lipgloss v1.1.0
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.34.0
 	github.com/samber/oops v1.17.0
 	github.com/spf13/cobra v1.9.1
 )
