@@ -1,13 +1,17 @@
 # Changelog
 
-## [0.0.2](https://github.com/liblaf/lollipop-go/compare/v0.0.1...v0.0.2) (2025-06-28)
-
+## [0.0.2](https://github.com/liblaf/lollipop-go/compare/v0.0.1..v0.0.2) - 2025-06-28
 
 ### ⬆️ Dependencies
 
-* **deps:** update module github.com/samber/oops to v1.19.0 ([#6](https://github.com/liblaf/lollipop-go/issues/6)) ([16ed590](https://github.com/liblaf/lollipop-go/commit/16ed59076e8cc7d5046c352ff188c16ba9c391e9))
+- **deps:** update module github.com/samber/oops to v1.19.0 (#6) - ([16ed590](https://github.com/liblaf/lollipop-go/commit/16ed59076e8cc7d5046c352ff188c16ba9c391e9))
 
-## [0.0.1](https://github.com/liblaf/lollipop-go/compare/v0.0.0..v0.0.1) - 2025-05-22
+### ❤️ New Contributors
+
+- [@renovate[bot]](https://github.com/apps/renovate) made their first contribution in [#6](https://github.com/liblaf/lollipop-go/pull/6)
+- [@liblaf-bot[bot]](https://github.com/apps/liblaf-bot) made their first contribution
+
+## [0.0.1](https://github.com/liblaf/lollipop-go/compare/v0.0.0..v0.0.1) - 2025-05-23
 
 ### ⬆️ Dependencies
 
@@ -15,9 +19,7 @@
 
 ### ❤️ New Contributors
 
-- [@renovate[bot]](https://github.com/apps/renovate) made their first contribution in [#4](https://github.com/liblaf/lollipop-go/pull/4)
-- [@liblaf](https://github.com/liblaf) made their first contribution
-- [@liblaf-bot[bot]](https://github.com/apps/liblaf-bot) made their first contribution
+- [@liblaf-bot[bot]](https://github.com/apps/liblaf-bot) made their first contribution in [#5](https://github.com/liblaf/lollipop-go/pull/5)
 
 ## [0.0.0] - 2025-03-24
 
