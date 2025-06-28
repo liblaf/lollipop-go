@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/liblaf/lollipop-go/compare/v0.0.1...v0.0.2) (2025-06-28)
+
+
+### ⬆️ Dependencies
+
+* **deps:** update module github.com/samber/oops to v1.19.0 ([#6](https://github.com/liblaf/lollipop-go/issues/6)) ([16ed590](https://github.com/liblaf/lollipop-go/commit/16ed59076e8cc7d5046c352ff188c16ba9c391e9))
+
 ## [0.0.1](https://github.com/liblaf/lollipop-go/compare/v0.0.0..v0.0.1) - 2025-05-22
 
 ### ⬆️ Dependencies
