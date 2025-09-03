@@ -1,15 +1,21 @@
 # Changelog
 
-## [0.0.2](https://github.com/liblaf/lollipop-go/compare/v0.0.1..v0.0.2) - 2025-06-28
+## [0.0.3](https://github.com/liblaf/lollipop-go/compare/v0.0.2..v0.0.3) - 2025-09-03
+
+### ⬆️ Dependencies
+
+- **deps:** update module github.com/spf13/cobra to v1.10.1 (#10) - ([15e97cc](https://github.com/liblaf/lollipop-go/commit/15e97cc30d9db901beb13488a75795a2b24d3d7d))
+
+### ❤️ New Contributors
+
+- [@liblaf-bot[bot]](https://github.com/apps/liblaf-bot) made their first contribution
+- [@renovate[bot]](https://github.com/apps/renovate) made their first contribution in [#10](https://github.com/liblaf/lollipop-go/pull/10)
+
+## [0.0.2](https://github.com/liblaf/lollipop-go/compare/v0.0.1..v0.0.2) - 2025-06-29
 
 ### ⬆️ Dependencies
 
 - **deps:** update module github.com/samber/oops to v1.19.0 (#6) - ([16ed590](https://github.com/liblaf/lollipop-go/commit/16ed59076e8cc7d5046c352ff188c16ba9c391e9))
-
-### ❤️ New Contributors
-
-- [@renovate[bot]](https://github.com/apps/renovate) made their first contribution in [#6](https://github.com/liblaf/lollipop-go/pull/6)
-- [@liblaf-bot[bot]](https://github.com/apps/liblaf-bot) made their first contribution
 
 ## [0.0.1](https://github.com/liblaf/lollipop-go/compare/v0.0.0..v0.0.1) - 2025-05-23
 
